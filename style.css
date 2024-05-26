@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 :root{
-    --primary-color: #c4b7a6;
+    --primary-color: #6f6960;
     --text-color: black;
 }
 html{
@@ -45,7 +45,7 @@ a{
 }
 .item_title{
     font-size: 1.6rem;
-    color: #C0C0C0;
+    color: #000000;
     font-weight: 500;
     margin: 0.8rem 0;
 }
